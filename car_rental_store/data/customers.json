@@ -1,11 +1,2 @@
 [
-    {
-        "customer_id": "1",
-        "name": "ghofran",
-        "email": "ghofran@gmail.com",
-        "phone": "0578787878",
-        "rented_cars": [
-            "1"
-        ]
-    }
 ]
