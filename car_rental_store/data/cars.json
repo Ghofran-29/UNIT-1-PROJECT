@@ -1,0 +1,9 @@
+[
+    {
+        "car_id": "1",
+        "brand": "BMW",
+        "model": "2023",
+        "price": 800.0,
+        "availability": true
+    }
+]
